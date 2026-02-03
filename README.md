@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+> “The more I learn, the less I know.”
+
 Here are some of my projects and experiments:
 
 # My GitHub Repositories
