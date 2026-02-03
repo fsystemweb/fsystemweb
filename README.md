@@ -15,6 +15,13 @@ Collect anonymous feedback on ideas, products, or events through conversational 
 
 ---
 
+### [chat-sentiment-analysis](https://github.com/fsystemweb/chat-sentiment-analysis)
+End-to-end AI chat sentiment analyzer using FastAPI, Next.js, LangChain, and AWS.
+
+**Tech:** nextsjs fastapi langchain aws terraform
+
+---
+
 ### [whitepaper-agent](https://github.com/fsystemweb/whitepaper-agent)
 A specialized AI agent designed to research and analyze whitepapers using Arxiv, built with Next.js 14, LangChain, and OpenAI.
 
