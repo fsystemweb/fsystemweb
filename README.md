@@ -34,26 +34,19 @@ Retro OS-inspired personal portfolio template
 
 **Tech:** react
 
----
-
-### [crm-dashboard](https://github.com/fsystemweb/crm-dashboard)
-Nx Angular CRM Dashboard App
-
-**Tech:** angular ngrx nx
-
----
-
-### [product-list](https://github.com/fsystemweb/product-list)
-Angular Product List with GraphQL
-
-**Tech:** angular graphql
-
----
+--
 
 ### [cameras-stream](https://github.com/fsystemweb/cameras-stream)
 Angular Live Camera Stream App
 
 **Tech:** angular webrtc hlc
+
+---
+
+### [rate-idea-bot](https://github.com/fsystemweb/rate-idea-bot)
+This project implements a simple Playwright bot. The bot performs actions like commenting, ranking posts, and creating new ideas on a scheduled basis, simulating user activity.
+
+**Tech:** typescript openai playwright github-actions
 
 ---
 
@@ -71,4 +64,17 @@ An example React application using shadcn components. A frontend demo for managi
 
 ---
 
+### [product-list](https://github.com/fsystemweb/product-list)
+Angular Product List with GraphQL
+
+**Tech:** angular graphql
+
+---
+
+### [crm-dashboard](https://github.com/fsystemweb/crm-dashboard)
+Nx Angular CRM Dashboard App
+
+**Tech:** angular ngrx nx
+
+---
 
