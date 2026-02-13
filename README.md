@@ -7,74 +7,33 @@ Here are some of my projects and experiments:
 # My GitHub Repositories
 
 ## Public Repositories
+- **[rate-my-idea](https://github.com/fsystemweb/rate-my-idea)** – Collect anonymous feedback on ideas, products, or events through conversational forms.  
+  *Tech:* React, MongoDB, AWS
 
-### [rate-my-idea](https://github.com/fsystemweb/rate-my-idea)
-Collect anonymous feedback on ideas, products, or events through conversational forms.
+- **[chat-sentiment-analysis](https://github.com/fsystemweb/chat-sentiment-analysis)** – End-to-end AI chat sentiment analyzer using FastAPI, Next.js, LangChain, and AWS.  
+  *Tech:* Next.js, FastAPI, LangChain, AWS, Terraform
 
-**Tech:** react mongodb aws
+- **[whitepaper-agent](https://github.com/fsystemweb/whitepaper-agent)** – AI agent for researching and analyzing whitepapers using Arxiv.  
+  *Tech:* Next.js 14, LangChain, OpenAI
 
----
+- **[xp-portfolio](https://github.com/fsystemweb/xp-portfolio)** – Retro OS-inspired personal portfolio template.  
+  *Tech:* React
 
-### [chat-sentiment-analysis](https://github.com/fsystemweb/chat-sentiment-analysis)
-End-to-end AI chat sentiment analyzer using FastAPI, Next.js, LangChain, and AWS.
+- **[cameras-stream](https://github.com/fsystemweb/cameras-stream)** – Angular live camera stream app.  
+  *Tech:* Angular, WebRTC, HLS
 
-**Tech:** nextsjs fastapi langchain aws terraform
+- **[rate-idea-bot](https://github.com/fsystemweb/rate-idea-bot)** – Playwright bot that comments, ranks posts, and creates ideas on a schedule.  
+  *Tech:* TypeScript, OpenAI, Playwright, GitHub Actions
 
----
+- **[prompt-engineering-cheatsheet](https://github.com/fsystemweb/prompt-engineering-cheatsheet)** – Prompt engineering guide and tips.  
+  *Tech:* React
 
-### [whitepaper-agent](https://github.com/fsystemweb/whitepaper-agent)
-A specialized AI agent designed to research and analyze whitepapers using Arxiv, built with Next.js 14, LangChain, and OpenAI.
+- **[docu-firma](https://github.com/fsystemweb/docu-firma)** – React demo app for managing digital document signatures using shadcn components.  
+  *Tech:* React
 
-**Tech:** nextsjs langchain
+- **[product-list](https://github.com/fsystemweb/product-list)** – Angular product list with GraphQL.  
+  *Tech:* Angular, GraphQL
 
----
-
-### [xp-portfolio](https://github.com/fsystemweb/xp-portfolio)
-Retro OS-inspired personal portfolio template
-
-**Tech:** react
-
----
-
-### [cameras-stream](https://github.com/fsystemweb/cameras-stream)
-Angular Live Camera Stream App
-
-**Tech:** angular webrtc hlc
-
----
-
-### [rate-idea-bot](https://github.com/fsystemweb/rate-idea-bot)
-This project implements a simple Playwright bot. The bot performs actions like commenting, ranking posts, and creating new ideas on a scheduled basis, simulating user activity.
-
-**Tech:** typescript openai playwright github-actions
-
----
-
-### [prompt-engineering-cheatsheet](https://github.com/fsystemweb/prompt-engineering-cheatsheet)
-Prompt Engineering Guide & Tips
-
-**Tech:** react
-
----
-
-### [docu-firma](https://github.com/fsystemweb/docu-firma)
-An example React application using shadcn components. A frontend demo for managing digital document signatures.
-
-**Tech:** react
-
----
-
-### [product-list](https://github.com/fsystemweb/product-list)
-Angular Product List with GraphQL
-
-**Tech:** angular graphql
-
----
-
-### [crm-dashboard](https://github.com/fsystemweb/crm-dashboard)
-Nx Angular CRM Dashboard App
-
-**Tech:** angular ngrx nx
-
----
+- **[crm-dashboard](https://github.com/fsystemweb/crm-dashboard)** – Nx-based Angular CRM dashboard.  
+  *Tech:* Angular, NgRx, Nx
 
