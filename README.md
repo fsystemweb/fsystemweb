@@ -15,6 +15,9 @@ Here are some of my projects and experiments:
 
 - **[whitepaper-agent](https://github.com/fsystemweb/whitepaper-agent)** – AI agent for researching and analyzing whitepapers using Arxiv.  
   *Tech:* Next.js 14, LangChain, OpenAI
+  
+- **[hacker-news-summarizer](https://github.com/fsystemweb/hacker-news-summarizer)** – CLI tool that fetches the newest Hacker News stories, extracts article content, and generates one-sentence summaries using Haystack 2.x and OpenAI.  
+  *Tech:* Python, Haystack 2.x, OpenAI
 
 - **[xp-portfolio](https://github.com/fsystemweb/xp-portfolio)** – Retro OS-inspired personal portfolio template.  
   *Tech:* React
