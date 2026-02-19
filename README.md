@@ -30,7 +30,10 @@ Here are some of my projects and experiments:
 
 - **[prompt-engineering-cheatsheet](https://github.com/fsystemweb/prompt-engineering-cheatsheet)** – Prompt engineering guide and tips.  
   *Tech:* React
-
+  
+- **[my-posts](https://github.com/fsystemweb/my-posts)** – A personal posts feed + A standalone tool to scrape your own LinkedIn posts.  
+  *Tech:* Next.js, jsonbin, puppeter
+  
 - **[docu-firma](https://github.com/fsystemweb/docu-firma)** – React demo app for managing digital document signatures using shadcn components.  
   *Tech:* React
 
