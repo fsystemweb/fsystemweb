@@ -19,6 +19,9 @@ Here are some of my projects and experiments:
 - **[hacker-news-summarizer](https://github.com/fsystemweb/hacker-news-summarizer)** – CLI tool that fetches the newest Hacker News stories, extracts article content, and generates one-sentence summaries using Haystack 2.x and OpenAI.  
   *Tech:* Python, Haystack 2.x, OpenAI
 
+- **[browser-voice-control](https://github.com/fsystemweb/browser-voice-control)** – Browser Voice Control — Agent Skill.  
+  *Tech:* Skill creator
+
 - **[xp-portfolio](https://github.com/fsystemweb/xp-portfolio)** – Retro OS-inspired personal portfolio template.  
   *Tech:* React
 
