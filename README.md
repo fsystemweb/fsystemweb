@@ -25,6 +25,9 @@ Here are some of my projects and experiments:
 - **[xp-portfolio](https://github.com/fsystemweb/xp-portfolio)** – Retro OS-inspired personal portfolio template.  
   *Tech:* React
 
+- **[dip-detector](https://github.com/fsystemweb/dip-detector)** – Free stock price drop alerts via Make.com and Yahoo Finance.  
+  *Tech:* Make.com
+
 - **[cameras-stream](https://github.com/fsystemweb/cameras-stream)** – Angular live camera stream app.  
   *Tech:* Angular, WebRTC, HLS
 
