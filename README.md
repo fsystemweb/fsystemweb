@@ -34,6 +34,12 @@ Here are some of my projects and experiments:
 - **[rate-idea-bot](https://github.com/fsystemweb/rate-idea-bot)** – Playwright bot that comments, ranks posts, and creates ideas on a schedule.  
   *Tech:* TypeScript, OpenAI, Playwright, GitHub Actions
 
+- **[cybersmash](https://github.com/fsystemweb/cybersmash)** – Comedic parody of the classic 90s arcade-fighter "destroy the car" bonus stage: wreck the CYBERCHUNK pickup with your bare hands in under 40 seconds.  
+  *Tech:* JavaScript, Canvas, Web Audio API
+
+- **[cybersmash-II](https://github.com/fsystemweb/cybersmash-II)** – 3D sequel of the browser game, a love letter to the "wreck the car" bonus stage of early-90s arcade fighters.  
+  *Tech:* JavaScript, three.js, Web Audio API
+
 - **[prompt-engineering-cheatsheet](https://github.com/fsystemweb/prompt-engineering-cheatsheet)** – Prompt engineering guide and tips.  
   *Tech:* React
   
