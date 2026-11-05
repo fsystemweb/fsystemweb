@@ -18,7 +18,7 @@ I build full-stack apps, AI agents and the occasional silly game. Here are some 
 
 - **[bookembed](https://github.com/fsystemweb/bookembed)** – CSV → Qdrant hybrid search: Nebius dense embeddings + BM25 sparse vectors fused with RRF, payload filters, one-command Docker setup.
   I architected the solution, the  implementation was AI-generated (fully vibe-coded).
-  *Tech:* Python, Qdrant, Nebius, FastEmbed, Docker.
+   *Tech:* Python, Qdrant, Nebius, FastEmbed, Docker.
 
 - **[hacker-news-summarizer](https://github.com/fsystemweb/hacker-news-summarizer)** – CLI that fetches the newest Hacker News stories, extracts article content and writes one-sentence summaries.  
   *Tech:* Python, Haystack 2.x, OpenAI
