@@ -2,56 +2,73 @@
 
 > “The more I learn, the less I know.”
 
-Here are some of my projects and experiments:
+I build full-stack apps, AI agents and the occasional silly game. Here are some of my projects and experiments.
 
 # My GitHub Repositories
-
-## Public Repositories
-- **[rate-my-idea](https://github.com/fsystemweb/rate-my-idea)** – Collect anonymous feedback on ideas, products, or events through conversational forms.  
-  *Tech:* React, MongoDB, AWS
-
-- **[chat-sentiment-analysis](https://github.com/fsystemweb/chat-sentiment-analysis)** – End-to-end AI chat sentiment analyzer using FastAPI, Next.js, LangChain, and AWS.  
-  *Tech:* Next.js, FastAPI, LangChain, AWS, Terraform
-
-- **[whitepaper-agent](https://github.com/fsystemweb/whitepaper-agent)** – AI agent for researching and analyzing whitepapers using Arxiv.  
-  *Tech:* Next.js 14, LangChain, OpenAI
-  
-- **[hacker-news-summarizer](https://github.com/fsystemweb/hacker-news-summarizer)** – CLI tool that fetches the newest Hacker News stories, extracts article content, and generates one-sentence summaries using Haystack 2.x and OpenAI.  
-  *Tech:* Python, Haystack 2.x, OpenAI
-
-- **[browser-voice-control](https://github.com/fsystemweb/browser-voice-control)** – Browser voice control skill for Claude, Gemini, Cursor & Antigravity.  
-  *Tech:* Skill creator
 
 - **[xp-portfolio](https://github.com/fsystemweb/xp-portfolio)** – Retro OS-inspired personal portfolio template.  
   *Tech:* React
 
-- **[dip-detector](https://github.com/fsystemweb/dip-detector)** – Free stock price drop alerts via Make.com and Yahoo Finance.  
-  *Tech:* Make.com
+## 🤖 AI & Data
+- **[whitepaper-agent](https://github.com/fsystemweb/whitepaper-agent)** – AI agent for researching and analyzing whitepapers using Arxiv.  
+  *Tech:* Next.js 14, LangChain, OpenAI
 
-- **[cameras-stream](https://github.com/fsystemweb/cameras-stream)** – Angular live camera stream app.  
-  *Tech:* Angular, WebRTC, HLS
+- **[chat-sentiment-analysis](https://github.com/fsystemweb/chat-sentiment-analysis)** – End-to-end AI chat sentiment analyzer.  
+  *Tech:* Next.js, FastAPI, LangChain, AWS, Terraform
 
-- **[rate-idea-bot](https://github.com/fsystemweb/rate-idea-bot)** – Playwright bot that comments, ranks posts, and creates ideas on a schedule.  
-  *Tech:* TypeScript, OpenAI, Playwright, GitHub Actions
+- **[bookembed](https://github.com/fsystemweb/bookembed)** – CSV → Qdrant hybrid search: Nebius dense embeddings + BM25 sparse vectors fused with RRF, payload filters, one-command Docker setup.  
+  *Tech:* Python, Qdrant, Nebius, FastEmbed, Docker. I just architected the solution, the entire implementation was AI-generated (fully vibe-coded).
 
-- **[cybersmash](https://github.com/fsystemweb/cybersmash)** – Comedic parody of the classic 90s arcade-fighter "destroy the car" bonus stage: wreck the CYBERCHUNK pickup with your bare hands in under 40 seconds.  
-  *Tech:* JavaScript, Canvas, Web Audio API
+- **[hacker-news-summarizer](https://github.com/fsystemweb/hacker-news-summarizer)** – CLI that fetches the newest Hacker News stories, extracts article content and writes one-sentence summaries.  
+  *Tech:* Python, Haystack 2.x, OpenAI
+  
+- **[browser-voice-control](https://github.com/fsystemweb/browser-voice-control)** – Hands-free browser control skill for Claude, Gemini, Cursor & Antigravity, powered by the Web Speech API.  
+  *Tech:* Skill creator, Web Speech API
 
-- **[cybersmash-II](https://github.com/fsystemweb/cybersmash-II)** – 3D sequel of the browser game, a love letter to the "wreck the car" bonus stage of early-90s arcade fighters.  
-  *Tech:* JavaScript, three.js, Web Audio API
+- **[real-state-web-generator](https://github.com/fsystemweb/real-state-web-generator)** – Generates real estate websites with prompt engineering and an LLM-as-judge approach, served through an API.  
+  *Tech:* FastAPI, OpenAI, LangChain
+
+- **[rag-ecommerce](https://github.com/fsystemweb/rag-ecommerce)** – Educational Retrieval-Augmented Generation (RAG) system for e-commerce: grounds LLM answers in your own product data, with a Streamlit chat UI.  
+  *Tech:* Python, OpenAI, Streamlit
 
 - **[prompt-engineering-cheatsheet](https://github.com/fsystemweb/prompt-engineering-cheatsheet)** – Prompt engineering guide and tips.  
   *Tech:* React
-  
-- **[my-posts](https://github.com/fsystemweb/my-posts)** – A personal posts feed + A standalone tool to scrape your own LinkedIn posts.  
-  *Tech:* Next.js, jsonbin, puppeter
-  
+
+## 🌐 Web Apps
+- **[rate-my-idea](https://github.com/fsystemweb/rate-my-idea)** – Collect anonymous feedback on ideas, products, or events through conversational forms.  
+  *Tech:* React, MongoDB, AWS
+
+- **[my-posts](https://github.com/fsystemweb/my-posts)** – A personal posts feed + a standalone tool to scrape your own LinkedIn posts.  
+  *Tech:* Next.js, jsonbin, Puppeteer
+
+- **[vehicle-inventory](https://github.com/fsystemweb/vehicle-inventory)** – Vehicle Inventory module of a DMS: auth and inventory dashboard.  
+  *Tech:* Next.js, TypeScript, Tailwind, Supabase, Vitest
+
 - **[docu-firma](https://github.com/fsystemweb/docu-firma)** – React demo app for managing digital document signatures using shadcn components.  
   *Tech:* React
-
-- **[product-list](https://github.com/fsystemweb/product-list)** – Angular product list with GraphQL.  
-  *Tech:* Angular, GraphQL
 
 - **[crm-dashboard](https://github.com/fsystemweb/crm-dashboard)** – Nx-based Angular CRM dashboard.  
   *Tech:* Angular, NgRx, Nx
 
+- **[cameras-stream](https://github.com/fsystemweb/cameras-stream)** – Angular live camera stream app.  
+  *Tech:* Angular, WebRTC, HLS
+
+- **[product-list](https://github.com/fsystemweb/product-list)** – Angular product list with GraphQL.  
+  *Tech:* Angular, GraphQL
+
+## 🛠️ Automation & Tools
+- **[rate-idea-bot](https://github.com/fsystemweb/rate-idea-bot)** – Playwright bot that comments, ranks posts, and creates ideas on a schedule.  
+  *Tech:* TypeScript, OpenAI, Playwright, GitHub Actions
+
+- **[dip-detector](https://github.com/fsystemweb/dip-detector)** – Free stock price drop alerts via Make.com and Yahoo Finance.  
+  *Tech:* Make.com
+
+- **[pixel-art-scaler](https://github.com/fsystemweb/pixel-art-scaler)** – Python tools to snap sprite sheets to a pixel grid and scale them down with nearest-neighbor interpolation.  
+  *Tech:* Python
+
+## 🎮 Games
+- **[cybersmash](https://github.com/fsystemweb/cybersmash)** – Comedic parody of the 90s arcade-fighter "destroy the car" bonus stage: wreck the CYBERCHUNK pickup with your bare hands in under 40 seconds.  
+  *Tech:* JavaScript, Canvas, Web Audio API
+
+- **[cybersmash-II](https://github.com/fsystemweb/cybersmash-II)** – 3D sequel of the browser game, a love letter to the "wreck the car" bonus stage of early-90s arcade fighters.  
+  *Tech:* JavaScript, three.js, Web Audio API
