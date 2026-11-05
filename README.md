@@ -41,18 +41,15 @@ I build full-stack apps, AI agents and the occasional silly game. Here are some 
 - **[my-posts](https://github.com/fsystemweb/my-posts)** – A personal posts feed + a standalone tool to scrape your own LinkedIn posts.  
   *Tech:* Next.js, jsonbin, Puppeteer
 
-- **[vehicle-inventory](https://github.com/fsystemweb/vehicle-inventory)** – Vehicle Inventory module of a DMS: auth and inventory dashboard.  
-  *Tech:* Next.js, TypeScript, Tailwind, Supabase, Vitest
-
-- **[docu-firma](https://github.com/fsystemweb/docu-firma)** – React demo app for managing digital document signatures using shadcn components.  
-  *Tech:* React
+- **[cameras-stream](https://github.com/fsystemweb/cameras-stream)** – Angular live camera stream app.  
+  *Tech:* Angular, WebRTC, HLS
 
 - **[crm-dashboard](https://github.com/fsystemweb/crm-dashboard)** – Nx-based Angular CRM dashboard.  
   *Tech:* Angular, NgRx, Nx
 
-- **[cameras-stream](https://github.com/fsystemweb/cameras-stream)** – Angular live camera stream app.  
-  *Tech:* Angular, WebRTC, HLS
-
+- **[docu-firma](https://github.com/fsystemweb/docu-firma)** – React demo app for managing digital document signatures using shadcn components.  
+  *Tech:* React
+  
 - **[product-list](https://github.com/fsystemweb/product-list)** – Angular product list with GraphQL.  
   *Tech:* Angular, GraphQL
 
