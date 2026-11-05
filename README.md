@@ -63,9 +63,6 @@ I build full-stack apps, AI agents and the occasional silly game. Here are some 
 - **[dip-detector](https://github.com/fsystemweb/dip-detector)** – Free stock price drop alerts via Make.com and Yahoo Finance.  
   *Tech:* Make.com
 
-- **[pixel-art-scaler](https://github.com/fsystemweb/pixel-art-scaler)** – Python tools to snap sprite sheets to a pixel grid and scale them down with nearest-neighbor interpolation.  
-  *Tech:* Python
-
 ## 🎮 Games
 - **[cybersmash](https://github.com/fsystemweb/cybersmash)** – Comedic parody of the 90s arcade-fighter "destroy the car" bonus stage: wreck the CYBERCHUNK pickup with your bare hands in under 40 seconds.  
   *Tech:* JavaScript, Canvas, Web Audio API
