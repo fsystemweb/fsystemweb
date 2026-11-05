@@ -6,16 +6,6 @@ I build full-stack apps, AI agents and the occasional silly game. Here are some 
 
 # My GitHub Repositories
 
-## ⭐ Featured
-- **[bookembed](https://github.com/fsystemweb/bookembed)** – CSV → Qdrant hybrid search: Nebius dense embeddings + BM25 sparse vectors fused with RRF, payload filters, one-command Docker setup.  
-  *Tech:* Python, Qdrant, Nebius, FastEmbed, Docker
-
-- **[cybersmash-II](https://github.com/fsystemweb/cybersmash-II)** – 3D sequel of the browser game, a love letter to the "wreck the car" bonus stage of early-90s arcade fighters.  
-  *Tech:* JavaScript, three.js, Web Audio API
-
-- **[browser-voice-control](https://github.com/fsystemweb/browser-voice-control)** – Hands-free browser control skill for Claude, Gemini, Cursor & Antigravity, powered by the Web Speech API.  
-  *Tech:* Skill creator, Web Speech API
-
 - **[xp-portfolio](https://github.com/fsystemweb/xp-portfolio)** – Retro OS-inspired personal portfolio template.  
   *Tech:* React
 
@@ -26,11 +16,17 @@ I build full-stack apps, AI agents and the occasional silly game. Here are some 
 - **[chat-sentiment-analysis](https://github.com/fsystemweb/chat-sentiment-analysis)** – End-to-end AI chat sentiment analyzer.  
   *Tech:* Next.js, FastAPI, LangChain, AWS, Terraform
 
-- **[real-state-web-generator](https://github.com/fsystemweb/real-state-web-generator)** – Generates real estate websites with prompt engineering and an LLM-as-judge approach, served through an API.  
-  *Tech:* FastAPI, OpenAI, LangChain
+- **[bookembed](https://github.com/fsystemweb/bookembed)** – CSV → Qdrant hybrid search: Nebius dense embeddings + BM25 sparse vectors fused with RRF, payload filters, one-command Docker setup.  
+  *Tech:* Python, Qdrant, Nebius, FastEmbed, Docker. I just architected the solution, the entire implementation was AI-generated (fully vibe-coded).
 
 - **[hacker-news-summarizer](https://github.com/fsystemweb/hacker-news-summarizer)** – CLI that fetches the newest Hacker News stories, extracts article content and writes one-sentence summaries.  
   *Tech:* Python, Haystack 2.x, OpenAI
+  
+- **[browser-voice-control](https://github.com/fsystemweb/browser-voice-control)** – Hands-free browser control skill for Claude, Gemini, Cursor & Antigravity, powered by the Web Speech API.  
+  *Tech:* Skill creator, Web Speech API
+
+- **[real-state-web-generator](https://github.com/fsystemweb/real-state-web-generator)** – Generates real estate websites with prompt engineering and an LLM-as-judge approach, served through an API.  
+  *Tech:* FastAPI, OpenAI, LangChain
 
 - **[rag-ecommerce](https://github.com/fsystemweb/rag-ecommerce)** – Educational Retrieval-Augmented Generation (RAG) system for e-commerce: grounds LLM answers in your own product data, with a Streamlit chat UI.  
   *Tech:* Python, OpenAI, Streamlit
@@ -73,3 +69,6 @@ I build full-stack apps, AI agents and the occasional silly game. Here are some 
 ## 🎮 Games
 - **[cybersmash](https://github.com/fsystemweb/cybersmash)** – Comedic parody of the 90s arcade-fighter "destroy the car" bonus stage: wreck the CYBERCHUNK pickup with your bare hands in under 40 seconds.  
   *Tech:* JavaScript, Canvas, Web Audio API
+
+- **[cybersmash-II](https://github.com/fsystemweb/cybersmash-II)** – 3D sequel of the browser game, a love letter to the "wreck the car" bonus stage of early-90s arcade fighters.  
+  *Tech:* JavaScript, three.js, Web Audio API
