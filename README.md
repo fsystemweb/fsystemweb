@@ -16,8 +16,9 @@ I build full-stack apps, AI agents and the occasional silly game. Here are some 
 - **[chat-sentiment-analysis](https://github.com/fsystemweb/chat-sentiment-analysis)** – End-to-end AI chat sentiment analyzer.  
   *Tech:* Next.js, FastAPI, LangChain, AWS, Terraform
 
-- **[bookembed](https://github.com/fsystemweb/bookembed)** – CSV → Qdrant hybrid search: Nebius dense embeddings + BM25 sparse vectors fused with RRF, payload filters, one-command Docker setup.  
-  *Tech:* Python, Qdrant, Nebius, FastEmbed, Docker. I just architected the solution, the entire implementation was AI-generated (fully vibe-coded).
+- **[bookembed](https://github.com/fsystemweb/bookembed)** – CSV → Qdrant hybrid search: Nebius dense embeddings + BM25 sparse vectors fused with RRF, payload filters, one-command Docker setup.
+  I architected the solution, the  implementation was AI-generated (fully vibe-coded).
+  *Tech:* Python, Qdrant, Nebius, FastEmbed, Docker.
 
 - **[hacker-news-summarizer](https://github.com/fsystemweb/hacker-news-summarizer)** – CLI that fetches the newest Hacker News stories, extracts article content and writes one-sentence summaries.  
   *Tech:* Python, Haystack 2.x, OpenAI
