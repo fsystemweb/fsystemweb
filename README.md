@@ -32,8 +32,8 @@ I build full-stack apps, AI agents and the occasional silly game. Here are some 
 - **[hacker-news-summarizer](https://github.com/fsystemweb/hacker-news-summarizer)** – CLI that fetches the newest Hacker News stories, extracts article content and writes one-sentence summaries.  
   *Tech:* Python, Haystack 2.x, OpenAI
 
-- **[rag-ecommerce](https://github.com/fsystemweb/rag-ecommerce)** – RAG experiment for e-commerce.  
-  *Tech:* Python
+- **[rag-ecommerce](https://github.com/fsystemweb/rag-ecommerce)** – Educational Retrieval-Augmented Generation (RAG) system for e-commerce: grounds LLM answers in your own product data, with a Streamlit chat UI.  
+  *Tech:* Python, OpenAI, Streamlit
 
 - **[prompt-engineering-cheatsheet](https://github.com/fsystemweb/prompt-engineering-cheatsheet)** – Prompt engineering guide and tips.  
   *Tech:* React
