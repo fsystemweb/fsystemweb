@@ -16,10 +16,8 @@ I build full-stack apps, AI agents and the occasional silly game. Here are some 
 - **[chat-sentiment-analysis](https://github.com/fsystemweb/chat-sentiment-analysis)** – End-to-end AI chat sentiment analyzer.  
   *Tech:* Next.js, FastAPI, LangChain, AWS, Terraform
 
-- **[bookembed](https://github.com/fsystemweb/bookembed)** – CSV → Qdrant hybrid search: Nebius dense embeddings + BM25 sparse vectors fused with RRF, payload filters, one-command Docker setup.
-  I architected the solution, the  implementation was AI-generated (fully vibe-coded).
-  
-  *Tech:* Python, Qdrant, Nebius, FastEmbed, Docker.
+- **[real-state-web-generator](https://github.com/fsystemweb/real-state-web-generator)** – Generates real estate websites with prompt engineering and an LLM-as-judge approach, served through an API.  
+  *Tech:* FastAPI, OpenAI, LangChain, Opik
 
 - **[hacker-news-summarizer](https://github.com/fsystemweb/hacker-news-summarizer)** – CLI that fetches the newest Hacker News stories, extracts article content and writes one-sentence summaries.  
   *Tech:* Python, Haystack 2.x, OpenAI
@@ -27,8 +25,10 @@ I build full-stack apps, AI agents and the occasional silly game. Here are some 
 - **[browser-voice-control](https://github.com/fsystemweb/browser-voice-control)** – Hands-free browser control skill for Claude, Gemini, Cursor & Antigravity, powered by the Web Speech API.  
   *Tech:* Skill creator, Web Speech API
 
-- **[real-state-web-generator](https://github.com/fsystemweb/real-state-web-generator)** – Generates real estate websites with prompt engineering and an LLM-as-judge approach, served through an API.  
-  *Tech:* FastAPI, OpenAI, LangChain
+- **[bookembed](https://github.com/fsystemweb/bookembed)** – CSV → Qdrant hybrid search: Nebius dense embeddings + BM25 sparse vectors fused with RRF, payload filters, one-command Docker setup.
+  I architected the solution, the  implementation was AI-generated (fully vibe-coded).
+  
+  *Tech:* Python, Qdrant, Nebius, FastEmbed, Docker.
 
 - **[rag-ecommerce](https://github.com/fsystemweb/rag-ecommerce)** – Educational Retrieval-Augmented Generation (RAG) system for e-commerce: grounds LLM answers in your own product data, with a Streamlit chat UI.  
   *Tech:* Python, OpenAI, Streamlit
