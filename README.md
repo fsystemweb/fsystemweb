@@ -15,7 +15,7 @@ I build full-stack apps, AI agents and the occasional silly game. Here are some 
   *Tech:* FastAPI, OpenAI, LangChain, Opik
 
 - **[rag-ecommerce](https://github.com/fsystemweb/rag-ecommerce)** – Educational Retrieval-Augmented Generation (RAG) system for e-commerce: grounds LLM answers in your product data.  
-  *Tech:* Python, OpenAI, LangChain, Opik, ChromaDB
+  *Tech:* Python, NebiusAI, LangChain, Opik, ChromaDB
 
 - **[whitepaper-agent](https://github.com/fsystemweb/whitepaper-agent)** – AI agent for researching and analyzing whitepapers using Arxiv.  
   *Tech:* Next.js 14, LangChain, OpenAI
