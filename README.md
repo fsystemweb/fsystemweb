@@ -11,11 +11,11 @@ I build full-stack apps, AI agents and the occasional silly game. Here are some 
 
 ## 🤖 AI & Data
 
+- **[rag-ecommerce](https://github.com/fsystemweb/rag-ecommerce)** – Educational Retrieval-Augmented Generation (RAG) system for e-commerce: grounds LLM answers in your product data.  
+  *Tech:* FastAPI, NebiusAI, LangChain, Opik, ChromaDB
+
 - **[real-state-web-generator](https://github.com/fsystemweb/real-state-web-generator)** – Generates real estate websites with prompt engineering and an LLM-as-judge approach, served through an API.  
   *Tech:* FastAPI, OpenAI, LangChain, Opik
-
-- **[rag-ecommerce](https://github.com/fsystemweb/rag-ecommerce)** – Educational Retrieval-Augmented Generation (RAG) system for e-commerce: grounds LLM answers in your product data.  
-  *Tech:* Python, NebiusAI, LangChain, Opik, ChromaDB
 
 - **[whitepaper-agent](https://github.com/fsystemweb/whitepaper-agent)** – AI agent for researching and analyzing whitepapers using Arxiv.  
   *Tech:* Next.js 14, LangChain, OpenAI
