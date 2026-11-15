@@ -3,6 +3,8 @@ Hi there 👋
 
 I build full-stack apps, AI agents and the occasional silly game. Here are some of my projects and experiments.
 
+---
+
 ### 🤖 AI & Data
 
 **[rag-ecommerce](https://github.com/fsystemweb/rag-ecommerce)** – Educational Retrieval-Augmented Generation (RAG) system for e-commerce: grounds LLM answers in your product data.
@@ -39,11 +41,13 @@ Tech: Python, Qdrant, Nebius, FastEmbed, Docker
 
 **[prompt-engineering-cheatsheet](https://github.com/fsystemweb/prompt-engineering-cheatsheet)** – Prompt engineering guide and tips.
 Tech: React
-🔗 [GitHub](https://github.com/fsystemweb/prompt-engineering-cheatsheet)
+🔗 [GitHub](https://github.com/fsystemweb/prompt-engineering-cheatsheet) · [Live](https://fsystemweb.github.io/prompt-engineering-cheatsheet/)
 
 **[hacker-news-summarizer](https://github.com/fsystemweb/hacker-news-summarizer)** – CLI that fetches the newest Hacker News stories, extracts article content and writes one-sentence summaries.
 Tech: Python, Haystack 2.x, OpenAI
 🔗 [GitHub](https://github.com/fsystemweb/hacker-news-summarizer)
+
+---
 
 ### 🌐 Web Apps
 
@@ -65,7 +69,7 @@ Tech: Angular, WebRTC, RxJS, TailwindCSS, Jest
 
 **[xp-portfolio](https://github.com/fsystemweb/xp-portfolio)** – Retro OS-inspired personal portfolio template.
 Tech: React
-🔗 [GitHub](https://github.com/fsystemweb/xp-portfolio)
+🔗 [GitHub](https://github.com/fsystemweb/xp-portfolio) · [Live](https://fsystemweb.github.io/xp-portfolio/)
 
 **[my-posts](https://github.com/fsystemweb/my-posts)** – A personal posts feed + a standalone tool to scrape your own LinkedIn posts.
 Tech: Next.js, jsonbin, Puppeteer, TailwindCSS
@@ -73,7 +77,7 @@ Tech: Next.js, jsonbin, Puppeteer, TailwindCSS
 
 **[product-list](https://github.com/fsystemweb/product-list)** – Angular product list with GraphQL.
 Tech: Angular, GraphQL
-🔗 [GitHub](https://github.com/fsystemweb/product-list)
+🔗 [GitHub](https://github.com/fsystemweb/product-list) · [Live](https://product-list-rose.vercel.app)
 
 **[crm-dashboard](https://github.com/fsystemweb/crm-dashboard)** – Nx-based Angular CRM dashboard for customer management and analytics.
 Tech: Angular, NgRx, Nx, Jest, Tailwind
@@ -85,6 +89,8 @@ Tech: React, ShadcnUI, Vite, Tailwind, Jest
 
 ### 🛠️ Automation & Tools
 
+---
+
 **[rate-idea-bot](https://github.com/fsystemweb/rate-idea-bot)** – Playwright bot that comments, ranks posts, and creates ideas on a schedule.
 Tech: TypeScript, OpenAI, Playwright, GitHub Actions
 🔗 [GitHub](https://github.com/fsystemweb/rate-idea-bot) · [Live](https://rateidea.us/)
@@ -94,6 +100,8 @@ Tech: Make.com, Yahoo Finance
 🔗 [GitHub](https://github.com/fsystemweb/dip-detector)
 
 ### 🎮 Games
+
+---
 
 **[cybersmash-II](https://github.com/fsystemweb/cybersmash-II)** – 3D sequel of the browser game, a love letter to the "wreck the car" bonus stage of early-90s arcade fighters.
 Tech: JavaScript, three.js, Web Audio API, Playwright
