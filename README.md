@@ -1,8 +1,6 @@
 Hi there 👋
 “The more I learn, the less I know.”
 
-I build full-stack apps, AI agents and the occasional silly game. Here are some of my projects and experiments.
-
 ---
 
 ### 🤖 AI & Data
