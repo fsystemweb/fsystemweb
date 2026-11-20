@@ -75,18 +75,6 @@ Tech: React
 Tech: Next.js, jsonbin, Puppeteer, TailwindCSS
 🔗 [GitHub](https://github.com/fsystemweb/my-posts) · [Live](https://my-posts-omega.vercel.app)
 
-**[product-list](https://github.com/fsystemweb/product-list)** – Angular product list with GraphQL.
-Tech: Angular, GraphQL
-🔗 [GitHub](https://github.com/fsystemweb/product-list) · [Live](https://product-list-rose.vercel.app)
-
-**[crm-dashboard](https://github.com/fsystemweb/crm-dashboard)** – Nx-based Angular CRM dashboard for customer management and analytics.
-Tech: Angular, NgRx, Nx, Jest, Tailwind
-🔗 [GitHub](https://github.com/fsystemweb/crm-dashboard) · [Live](https://crm-dashboard-sigma.vercel.app/customers)
-
-**[docu-firma](https://github.com/fsystemweb/docu-firma)** – React demo app for managing digital document signatures using shadcn components.
-Tech: React, ShadcnUI, Vite, Tailwind, Jest
-🔗 [GitHub](https://github.com/fsystemweb/docu-firma) · [Live](https://fsystemweb.github.io/docu-firma/)
-
 ### 🛠️ Automation & Tools
 
 ---
