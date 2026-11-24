@@ -33,6 +33,10 @@ Tech: Next.js, LangChain, Gemini, Vercel, Sentry, MongoDB
 Tech: Skill creator, Web Speech API
 🔗 [GitHub](https://github.com/fsystemweb/browser-voice-control)
 
+**[agent-md-caregiver](https://github.com/fsystemweb/agent-md-caregiver)** – Linter for agent instruction files: checks AGENTS.md, CLAUDE.md and codex.md against the real repo for dead commands, renamed paths and contradicting instructions.
+Tech: Node.js, JavaScript (JSDoc), zero dependencies, npm
+🔗 [GitHub](https://github.com/fsystemweb/agent-md-caregiver) · [Docs](https://fsystemweb.github.io/agent-md-caregiver/) · [npm](https://www.npmjs.com/package/agent-md-caregiver)
+
 **[bookembed](https://github.com/fsystemweb/bookembed)** – CSV → Qdrant hybrid search: Nebius dense embeddings + BM25 sparse vectors fused with RRF. I architected it, the implementation was AI-generated (fully vibe-coded).
 Tech: Python, Qdrant, Nebius, FastEmbed, Docker
 🔗 [GitHub](https://github.com/fsystemweb/bookembed)
