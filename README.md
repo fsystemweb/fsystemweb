@@ -37,6 +37,10 @@ Tech: Skill creator, Web Speech API
 Tech: Node.js, JavaScript (JSDoc), zero dependencies, npm
 🔗 [GitHub](https://github.com/fsystemweb/agent-md-caregiver) · [Docs](https://fsystemweb.github.io/agent-md-caregiver/) · [npm](https://www.npmjs.com/package/agent-md-caregiver)
 
+**[no-slop](https://github.com/fsystemweb/no-slop)** – Agent skill that keeps AI-written code comments meaningful: explain why, not what.
+Tech: Agent Skills, Claude Code plugin, Cursor, Codex, Gemini CLI
+🔗 [GitHub](https://github.com/fsystemweb/no-slop)
+
 **[bookembed](https://github.com/fsystemweb/bookembed)** – CSV → Qdrant hybrid search: Nebius dense embeddings + BM25 sparse vectors fused with RRF. I architected it, the implementation was AI-generated (fully vibe-coded).
 Tech: Python, Qdrant, Nebius, FastEmbed, Docker
 🔗 [GitHub](https://github.com/fsystemweb/bookembed)
@@ -92,6 +96,10 @@ Tech: Make.com, Yahoo Finance
 ### 🎮 Games
 
 ---
+
+**[pampa-90](https://github.com/fsystemweb/pampa-90)** – 8-bit browser game: the world's best footballer spends a mid-90s preseason in La Pampa, Argentina. Intro + 6 short minigames, EN / ES.
+Tech: Vanilla JavaScript (ES modules), HTML5 Canvas, no build step
+🔗 [GitHub](https://github.com/fsystemweb/pampa-90) · [Live](https://fsystemweb.github.io/pampa-90/)
 
 **[cybersmash-II](https://github.com/fsystemweb/cybersmash-II)** – 3D sequel of the browser game, a love letter to the "wreck the car" bonus stage of early-90s arcade fighters.
 Tech: JavaScript, three.js, Web Audio API, Playwright
